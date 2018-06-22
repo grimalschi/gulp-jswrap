@@ -2,7 +2,7 @@
   "name": "gulp-jswrap",
   "title": "Gulp try-catch wrapper",
   "description": "Wraps every function in the try-catch statement",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/grimalschi/gulp-jswrap",
   "author": {
     "name": "Veaceslav Grimalschi",
@@ -24,7 +24,7 @@
   "dependencies": {
     "through2": "^0.6.1",
     "gulp-util": "^3.0.0",
-    "jswrap": "^0.1.2"
+    "jswrap": "^0.2.0"
   },
   "keywords": [
     "gulpplugin"
